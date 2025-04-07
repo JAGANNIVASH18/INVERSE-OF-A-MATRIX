@@ -25,12 +25,13 @@ End the program.
 ```
 ```py
 import numpy as np
-A = [[6,2,3],[3,1,1],[10,3,4]]
+A = [[1,0,3],[-1,2,-2],[2,3,-1]]
 B = np.linalg.inv(A)
 print(B)
 ```
 ## Output:
-![Screenshot 2025-03-27 183743](https://github.com/user-attachments/assets/f889991b-ce9a-4f19-a0d1-54e2cd9e3a8b)
+![Screenshot 2025-04-07 100035](https://github.com/user-attachments/assets/8b7ed60c-49ed-4d08-a756-321825ebfa03)
+
 
 ## Result:
 Thus the inverse of given matrix is successfully solved using python program
